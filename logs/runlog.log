@@ -1,0 +1,78 @@
+2019-07-11 17:31:28,049 run.py[line:30] INFO start run test case...
+2019-07-11 17:31:35,503 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:31:36,739 loginView.py[line:26] INFO 退出登录成功
+2019-07-11 17:34:12,004 run.py[line:30] INFO start run test case...
+2019-07-11 17:34:12,005 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:34:19,439 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:34:20,678 loginView.py[line:26] INFO 退出登录成功
+2019-07-11 17:34:21,043 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:35:26,338 run.py[line:30] INFO start run test case...
+2019-07-11 17:35:26,339 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:35:34,115 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:35:35,489 loginView.py[line:26] INFO 退出登录成功
+2019-07-11 17:35:35,489 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:36:06,482 run.py[line:30] INFO start run test case...
+2019-07-11 17:36:06,482 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:36:14,061 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:36:15,248 loginView.py[line:26] INFO 退出登录成功
+2019-07-11 17:36:15,248 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:41:43,947 run.py[line:30] INFO start run test case...
+2019-07-11 17:41:43,947 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:41:51,223 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:41:52,290 loginView.py[line:26] INFO 退出登录成功
+2019-07-11 17:41:52,291 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:42:29,883 run.py[line:30] INFO start run test case...
+2019-07-11 17:42:29,883 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:42:38,820 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:42:39,888 loginView.py[line:26] INFO 退出登录成功
+2019-07-11 17:42:39,888 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:43:49,114 run.py[line:30] INFO start run test case...
+2019-07-11 17:43:49,114 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:43:56,977 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:44:08,521 loginView.py[line:24] ERROR 退出登录失败
+2019-07-11 17:44:09,214 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:44:11,977 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:44:20,099 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:44:31,654 loginView.py[line:24] ERROR 退出登录失败
+2019-07-11 17:44:32,300 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:46:50,367 run.py[line:30] INFO start run test case...
+2019-07-11 17:46:50,367 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:46:57,902 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:47:09,465 loginView.py[line:24] ERROR 退出登录失败
+2019-07-11 17:47:09,783 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:48:18,598 run.py[line:30] INFO start run test case...
+2019-07-11 17:48:18,598 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:48:26,568 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:48:38,111 loginView.py[line:24] ERROR 退出登录失败
+2019-07-11 17:48:38,811 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:49:22,068 run.py[line:39] INFO start run test case...
+2019-07-11 17:49:22,069 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:49:29,637 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:49:41,370 loginView.py[line:24] ERROR 退出登录失败
+2019-07-11 17:49:42,097 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:51:08,250 run.py[line:30] INFO start run test case...
+2019-07-11 17:51:08,250 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:51:15,764 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:51:16,875 loginView.py[line:27] INFO 退出登录成功
+2019-07-11 17:51:16,876 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:52:02,085 run.py[line:30] INFO start run test case...
+2019-07-11 17:52:02,085 myunit.py[line:19] INFO =====setUp====
+2019-07-11 17:52:11,816 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:52:12,832 loginView.py[line:27] INFO 退出登录成功
+2019-07-11 17:52:12,833 myunit.py[line:28] INFO ====tearDown====
+2019-07-11 17:53:11,600 run.py[line:30] INFO start run test case...
+2019-07-11 17:54:05,183 run.py[line:30] INFO start run test case...
+2019-07-11 17:54:05,183 myunit.py[line:18] INFO =====setUp====
+2019-07-11 17:54:12,666 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:54:13,690 loginView.py[line:27] INFO 退出登录成功
+2019-07-11 17:54:13,690 myunit.py[line:27] INFO ====tearDown====
+2019-07-11 17:55:08,748 run.py[line:30] INFO start run test case...
+2019-07-11 17:55:08,749 myunit.py[line:18] INFO =====setUp====
+2019-07-11 17:55:16,977 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 17:55:18,179 loginView.py[line:27] INFO 退出登录成功
+2019-07-11 17:55:18,179 myunit.py[line:27] INFO ====tearDown====
+2019-07-11 18:00:34,150 run.py[line:39] INFO start run test case...
+2019-07-11 18:00:34,151 myunit.py[line:18] INFO =====setUp====
+2019-07-11 18:00:41,709 common_fun.py[line:7] INFO =====get_csv_data======
+2019-07-11 18:00:42,805 loginView.py[line:27] INFO 退出登录成功
+2019-07-11 18:00:42,805 myunit.py[line:27] INFO ====tearDown====
