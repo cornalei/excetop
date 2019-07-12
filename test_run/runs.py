@@ -18,7 +18,7 @@ def add_case():
     # discover=unittest.defaultTestLoader.discover(test_dir,pattern='test_services.py')
     return discover
 
-
+@threads(3)
 def run_case(all_case,nth=0):
     #定义报告的文件格式
     now=time.strftime('%Y-%m-%d %H_%M_%S')
@@ -35,7 +35,7 @@ def run_cases(all_case):
     #定义报告的文件格式
     now=time.strftime('%Y-%m-%d %H_%M_%S')
     report_name=report_dir+'/'+now+' test_report.html'
-
+    logging.info('start run test case...')
     result = BeautifulReport(all_case)
     result.report(filename=report_name, description='excetop',log_path=report_dir)
 
